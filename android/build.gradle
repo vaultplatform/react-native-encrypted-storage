@@ -24,7 +24,7 @@ android {
   buildToolsVersion getExtOrDefault('buildToolsVersion')
 
   defaultConfig {
-    minSdkVersion 21
+    minSdkVersion 23
     targetSdkVersion getExtOrIntegerDefault('targetSdkVersion')
     versionCode 50
     versionName "4.0.3"
